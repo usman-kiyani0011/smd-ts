@@ -1,0 +1,27 @@
+.title {
+  width: 140px;
+  height: 28px;
+
+  /* Medium 24px */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.home {
+  height: 20px;
+  width: 20px;
+  left: 158px;
+  top: 4px;
+  border-radius: 0px;
+}
